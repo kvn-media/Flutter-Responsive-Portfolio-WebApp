@@ -12,13 +12,18 @@ You can explore the live version of the website [Click to see live demo](https:/
 
 ## Table of Contents
 
-- [Key Features](#key-features)
-- [Technologies and Packages Used](#technologies-and-packages-used)
-- [Getting Started](#getting-started)
-- [Usage Guide](#usage-guide)
-- [Contributions](#contributions)
-- [Contact Me](#contact-me)
-- [License](#license)
+- [Responsive Flutter Portfolio Application \& Website](#responsive-flutter-portfolio-application--website)
+  - [Live Demo](#live-demo)
+  - [Screenshots](#screenshots)
+  - [Table of Contents](#table-of-contents)
+  - [Key Features](#key-features)
+  - [Technologies and Packages Used](#technologies-and-packages-used)
+  - [Getting Started](#getting-started)
+  - [Usage Guide](#usage-guide)
+  - [Contributions](#contributions)
+  - [Contact Me](#contact-me)
+  - [License](#license)
+    - [Designed and developed with ❤️ by Hamad Anwar.](#designed-and-developed-with-️-by-hamad-anwar)
 
 ## Key Features
 
@@ -72,8 +77,8 @@ I welcome contributions and suggestions from the community! If you come across a
 
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
-- **Email:** rh676838@gmail.com
-- **LinkedIn:** [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar)
+- **Email:** kevin.subagio@gmail.com
+- **LinkedIn:** [Muhammad Kevin](https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)
 
 ## License
 
